@@ -78,4 +78,6 @@ This module modifies the web addon to provide Enterprise design and responsivene
         ],
     },
     'license': 'OEEL-1',
+    'currency':'USD',
+    'price':'100.0',
 }
