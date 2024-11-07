@@ -77,7 +77,7 @@ This module modifies the web addon to provide Enterprise design and responsivene
             'web_enterprise/static/tests/webclient/action_manager_mobile_tests.js',
         ],
     },
-    'license': 'OEEL-1',
-    'currency':'USD',
-    'price':'100.0',
+    'license': 'OPL-1',
+    # 'currency':'USD',
+    # 'price':'100.0',
 }
